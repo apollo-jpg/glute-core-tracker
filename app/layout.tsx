@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Glute & Core Tracker",
-  description: "9-Week Glute & Core Program Tracker",
+  title: "LIFT TRACKER",
+  description: "9-Week Program Tracker",
 };
 
 export default function RootLayout({

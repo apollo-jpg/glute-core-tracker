@@ -17,8 +17,8 @@ export default function LandingPage() {
     >
       <div className="w-full max-w-sm">
         <div className="text-center mb-12">
-          <div className="text-5xl mb-4">🍑</div>
-          <h1 className="text-3xl font-bold text-white mb-2">Glute & Core</h1>
+          <div className="text-5xl mb-4">🏋️</div>
+          <h1 className="text-3xl font-bold text-white mb-2">LIFT TRACKER</h1>
           <p className="text-purple-300 text-lg">9-Week Program</p>
           <p className="text-gray-400 text-sm mt-2">Who's logging in?</p>
         </div>
